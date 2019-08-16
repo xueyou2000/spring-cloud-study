@@ -1,0 +1,24 @@
+[submodule "api-gateway"]
+	path = api-gateway
+	url = git@github.com:xueyou2000/api-gateway.git
+[submodule "common"]
+	path = common
+	url = git@github.com:xueyou2000/common.git
+[submodule "config-server"]
+	path = config-server
+	url = git@github.com:xueyou2000/config-server.git
+[submodule "eureka"]
+	path = eureka
+	url = git@github.com:xueyou2000/eureka.git
+[submodule "eureka-client"]
+	path = eureka-client
+	url = git@github.com:xueyou2000/eureka-client.git
+[submodule "service-api"]
+	path = service-api
+	url = git@github.com:xueyou2000/service-api.git
+[submodule "service-feign"]
+	path = service-feign
+	url = git@github.com:xueyou2000/service-feign.git
+[submodule "service-ribbon"]
+	path = service-ribbon
+	url = git@github.com:xueyou2000/service-ribbon.git
