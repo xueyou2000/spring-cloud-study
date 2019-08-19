@@ -22,3 +22,6 @@
 [submodule "service-ribbon"]
 	path = service-ribbon
 	url = git@github.com:xueyou2000/service-ribbon.git
+[submodule "admin-server"]
+	path = admin-server
+	url = git@github.com:xueyou2000/admin-server.git
