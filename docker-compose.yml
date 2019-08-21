@@ -1,0 +1,9 @@
+version: "3"
+services:
+  eureka-server:
+    deploy:
+      replicas: 2
+    image: eureka-server:latest
+    restart: always
+    ports:
+      - 2000:2000
